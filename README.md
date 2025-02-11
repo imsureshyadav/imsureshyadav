@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Python, SQL, Power BI, Data Cleaning & Business Intelligence**
 
-- 📫 How to reach me **syhub.tech@outline.com**
+- 📫 How to reach me **syhub.tech@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
